@@ -58,7 +58,6 @@ public class Main {
         String nome1 = scanner.next();
         System.out.print("Digite a idade de " + nome1 + ": ");
         int idade1 = scanner.nextInt();
-
         System.out.print("Digite o nome da segunda pessoa: ");
         String nome2 = scanner.next();
         System.out.print("Digite a idade de " + nome2 + ": ");
